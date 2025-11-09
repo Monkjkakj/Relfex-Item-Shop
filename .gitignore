@@ -1,2 +1,41 @@
-# Google App Engine generated folder
-appengine-generated/
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [ "AthenaLoadingScreen:LSID_219_AlterEgo" ],
+        "price": 0
+    },
+    "daily2": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_334_SweaterWeatherMale" ],
+        "price": 1200
+    },
+    "daily3": {
+        "itemGrants": [ "AthenaDance:EID_HappySkipping" ],
+        "price": 100
+    },
+    "daily4": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_169_Farmer" ],
+        "price": 800
+    },
+    "daily5": {
+        "itemGrants": [ "AthenaPickaxe:Pickaxe_ID_263_JonesyCube" ],
+        "price": 1200
+    },
+    "daily6": {
+        "itemGrants": [ "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark" ],
+        "price": 1200
+    },
+    "featured1": {
+        "itemGrants": [ "AthenaCharacter:CID_346_Athena_Commando_M_DragonNinja" ],
+        "price": 1500
+    },
+    "featured2": {
+        "itemGrants": [ "AthenaCharacter:CID_030_Athena_Commando_M_Halloween" ],
+        "price": 1500
+
+    },
+    "featured3": {
+        "itemGrants": [ "AthenaCharacter:CID_195_Athena_Commando_F_Bling" ],
+        "price": 4000
+
+    }
+}
